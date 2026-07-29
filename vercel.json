@@ -23,6 +23,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
+        "APP_KEY": "base64:U5SOu8KvkrI6HlBtcHp5ocCSYgTaF06fdydoGLX/gug=",
         "APP_URL": "https://rafly-portofolio.vercel.app",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
