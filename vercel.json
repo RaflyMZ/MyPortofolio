@@ -8,12 +8,20 @@
         {
             "src": "public/build/**",
             "use": "@vercel/static"
+        },
+        {
+            "src": "public/images/**",
+            "use": "@vercel/static"
         }
     ],
     "routes": [
         {
             "src": "/build/(.*)",
             "dest": "/public/build/$1"
+        },
+        {
+            "src": "/images/(.*)",
+            "dest": "/public/images/$1"
         },
         {
             "src": "/(.*)",
