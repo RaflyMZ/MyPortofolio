@@ -3,17 +3,26 @@
     "builds": [
         {
             "src": "api/index.php",
-            "use": "vercel-php@0.9.0"
-        },
-        {
-            "src": "/public/**",
-            "use": "@vercel/static"
+            "use": "vercel-php@0.9.0",
+            "config": {
+                "includeFiles": [
+                    "public/**",
+                    "app/**",
+                    "bootstrap/**",
+                    "config/**",
+                    "database/**",
+                    "resources/**",
+                    "routes/**",
+                    "storage/**",
+                    "vendor/**"
+                ]
+            }
         }
     ],
     "routes": [
         {
-            "src": "/build/(.*)",
-            "dest": "/public/build/$1"
+            "src": "/build/assets/(.*)",
+            "dest": "/api/index.php"
         },
         {
             "src": "/(.*)",

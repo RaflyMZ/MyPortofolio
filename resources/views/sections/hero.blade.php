@@ -40,7 +40,7 @@
                 <p class="mt-2 text-sm font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wide">IPK S1 Informatika</p>
             </div>
             <div>
-                <p class="text-4xl font-extrabold text-gray-900 dark:text-white">4</p>
+                <p class="text-4xl font-extrabold text-gray-900 dark:text-white">5</p>
                 <p class="mt-2 text-sm font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wide">Proyek</p>
             </div>
             <div>
