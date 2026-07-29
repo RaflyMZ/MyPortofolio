@@ -41,7 +41,7 @@
                     <div class="glass-card p-6 rounded-xl relative hover:-translate-y-1 transition-transform duration-300 border-l-4 border-l-accent-500">
                         <div class="flex flex-col sm:flex-row sm:items-center justify-between mb-2">
                             <h3 class="flex items-center mb-1 text-lg font-bold text-gray-900 dark:text-white">Universitas Komputer Indonesia</h3>
-                            <span class="text-sm font-medium text-accent-600 dark:text-accent-400 bg-accent-50 dark:bg-accent-900/30 px-3 py-1 rounded-full w-fit">2022 - 2026</span>
+                            <span class="text-sm font-medium text-accent-600 dark:text-accent-400 bg-accent-50 dark:bg-accent-900/30 px-3 py-1 rounded-full w-fit">2021 - 2026</span>
                         </div>
                         <h4 class="text-md font-semibold text-gray-700 dark:text-gray-300 mb-4">S1 Teknik Informatika <span class="text-sm font-normal text-gray-500">(IPK: 3.59)</span></h4>
                         <p class="text-gray-600 dark:text-gray-400">
