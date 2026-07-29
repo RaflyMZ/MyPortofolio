@@ -18,7 +18,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <!-- Styles / Scripts -->
-    @vite(['resources/css/app.css', 'resources/js/app.js'])
+    <link rel="stylesheet" href="/build/assets/app-DGYDF621.css">
+    <script type="module" src="/build/assets/app-CbS9LYp5.js" defer></script>
 </head>
 <body class="font-sans antialiased bg-bgLight text-gray-900 dark:bg-bgDark dark:text-gray-100 selection:bg-accent-500 selection:text-white" x-data="theme">
     
