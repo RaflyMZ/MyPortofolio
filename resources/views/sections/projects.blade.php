@@ -13,8 +13,8 @@
             
             <!-- Nutriscan -->
             <div class="glass-card rounded-2xl overflow-hidden group cursor-pointer hover:shadow-xl transition-all duration-300">
-                <div class="relative h-64 overflow-hidden bg-gradient-to-br from-primary-500 to-accent-600 flex items-center justify-center">
-                    <span class="text-4xl font-bold text-white opacity-40">NS</span>
+                <div class="relative h-64 overflow-hidden bg-gray-200 dark:bg-gray-800">
+                    <img src="{{ asset('images/projects/nutriscan.png') }}" alt="Nutriscan" class="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="p-8">
                     <div class="flex items-center justify-between mb-4">
