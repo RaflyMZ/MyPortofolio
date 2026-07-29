@@ -76,8 +76,8 @@
 
             <!-- ParkHere -->
             <div class="glass-card rounded-2xl overflow-hidden group cursor-pointer hover:shadow-xl transition-all duration-300">
-                <div class="relative h-64 overflow-hidden bg-gradient-to-br from-blue-500 to-teal-500 flex items-center justify-center">
-                    <span class="text-4xl font-bold text-white opacity-40">ParkHere</span>
+                <div class="relative h-64 overflow-hidden bg-gray-200 dark:bg-gray-800">
+                    <img src="{{ asset('images/projects/parkhere.png') }}" alt="ParkHere Smart Parking System" class="object-cover w-full h-full group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="p-8">
                     <h3 class="text-2xl font-bold text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-accent-500 transition-colors mb-4">ParkHere - Smart Parking System</h3>
